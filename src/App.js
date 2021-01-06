@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div>
-       hello world 
+       hello world from bootcamo class 2 raect app
       </div>
     );
   }
